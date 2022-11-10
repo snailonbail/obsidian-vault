@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6fc65c841a601636",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d19ed55fdcbabdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d1aeabd76fde28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle System Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "047a44642ffcd4b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a74a58eeac5265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "920232a6ea24253d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e40fd92c2601a07a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56e21632aa71b46c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cf3ca2c4fce4f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b049ed38bdf11e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14947233bd32875e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Battle System Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b3ef069e097ebda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Battle System Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e363c2c309d523a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4588009180ccfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Battle System Details.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5d1aeabd76fde28",
+  "lastOpenFiles": [
+    "Available Combat Action.md",
+    "Test.md"
+  ]
+}
