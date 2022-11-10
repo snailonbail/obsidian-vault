@@ -11,8 +11,12 @@
             "id": "42852711b8170258",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Mechanics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Game Mechanics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Game Mechanics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +113,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Game Mechanics.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "active": "42852711b8170258",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Name Ideas.md",
+    "Special Rolls.md",
+    "Game Mechanics.md",
+    "Battle System Details.md",
+    "Available Combat Action.md",
+    "fie's bunker/Test.md"
+  ]
 }
