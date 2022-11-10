@@ -1,6 +1,6 @@
 The battle system will be one of the main [[Game Mechanics]] of the [[Tempus Fangame]].
 
-Both parties can have up to 4 battle characters in battle, that will act based on the turn order.
+Both parties can have up to 4 [[Battle Characters]] in battle, that will act based on the turn order.
 
 A character turn happens as follows:
 

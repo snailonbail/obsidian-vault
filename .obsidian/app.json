@@ -4,5 +4,6 @@
     "pt-PT",
     "en-US"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
