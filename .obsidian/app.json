@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "pt-PT",
     "en-US"
-  ]
+  ],
+  "showInlineTitle": false
 }

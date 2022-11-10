@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "baseFontSize": 12,
   "interfaceFontFamily": "Open Sans",
-  "textFontFamily": "Open Sans"
+  "textFontFamily": "Open Sans",
+  "nativeMenus": true
 }
