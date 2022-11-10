@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Name Ideas.md",
+                "file": "Battle System Details.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Name Ideas.md",
+                "file": "Battle System Details.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Name Ideas.md",
+            "file": "Battle System Details.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Name Ideas.md",
+            "file": "Battle System Details.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Name Ideas.md"
+            "file": "Battle System Details.md"
           }
         }
       }
@@ -166,12 +166,12 @@
   },
   "active": "42852711b8170258",
   "lastOpenFiles": [
-    "Battle System Details.md",
-    "Available Combat Action.md",
-    "Special Rolls.md",
-    "Tempus Fangame.md",
-    "Name Ideas.md",
     "Game Mechanics.md",
+    "Name Ideas.md",
+    "Special Rolls.md",
+    "Available Combat Action.md",
+    "Battle System Details.md",
+    "Tempus Fangame.md",
     "fie's bunker/Test.md"
   ]
 }
