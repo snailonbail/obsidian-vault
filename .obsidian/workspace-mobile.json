@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battle Characters.md",
+                "file": "Battle Moves.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Battle Characters.md",
+                "file": "Battle Moves.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Battle Characters.md",
+            "file": "Battle Moves.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Battle Characters.md",
+            "file": "Battle Moves.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Battle Characters.md"
+            "file": "Battle Moves.md"
           }
         }
       }
@@ -166,14 +166,15 @@
   },
   "active": "42852711b8170258",
   "lastOpenFiles": [
-    "Game Mechanics.md",
-    "Battle Characters.md",
+    "Battle Moves.md",
+    "Move Type.md",
+    "Extra Actions.md",
+    "Moves Power.md",
     "Battle System Details.md",
-    "battle characters.md",
-    "Name Ideas.md",
-    "Special Rolls.md",
+    "Battle Characters.md",
     "Available Combat Action.md",
-    "Tempus Fangame.md",
-    "fie's bunker/Test.md"
+    "Game Mechanics.md",
+    "battle characters.md",
+    "Name Ideas.md"
   ]
 }

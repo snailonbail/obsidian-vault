@@ -1,7 +1,7 @@
 These are the actions the player can execute in their combat turn.
 
 * Moves
-  This option will display a list of the Battle Moves of this character. The move will be selectable or not depending on the characters energy roll.
+  This option will display a list of the [[Battle Moves]] of this character. The move will be selectable or not depending on the characters energy roll.
   
 * Items
    The various Items the party gained from the overworld and from battle rewards will show up here.
