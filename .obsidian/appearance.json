@@ -1,7 +1,7 @@
 {
   "accentColor": "#9f9fc6",
   "cssTheme": "Minimal",
-  "baseFontSize": 13,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Open Sans",
   "textFontFamily": "Open Sans",
   "nativeMenus": true

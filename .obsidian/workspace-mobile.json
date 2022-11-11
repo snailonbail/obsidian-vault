@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battle Moves.md",
+                "file": "Move Target.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Battle Moves.md",
+                "file": "Move Target.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Battle Moves.md",
+            "file": "Move Target.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Battle Moves.md",
+            "file": "Move Target.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Battle Moves.md"
+            "file": "Move Target.md"
           }
         }
       }
@@ -166,15 +166,15 @@
   },
   "active": "42852711b8170258",
   "lastOpenFiles": [
+    "Game Mechanics.md",
+    "Move Target.md",
     "Battle Moves.md",
+    "Battle Effects.md",
     "Move Type.md",
+    "Battle System Details.md",
     "Extra Actions.md",
     "Moves Power.md",
-    "Battle System Details.md",
     "Battle Characters.md",
-    "Available Combat Action.md",
-    "Game Mechanics.md",
-    "battle characters.md",
-    "Name Ideas.md"
+    "Available Combat Action.md"
   ]
 }
