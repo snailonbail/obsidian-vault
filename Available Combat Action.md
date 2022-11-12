@@ -11,5 +11,3 @@ Each of this options will show on each side of the character, and the player wil
 Executing any of these actions will proceed to end the player turn.
 
 If some [[Special Rolls]] happen, the available actions can change.
-
-Test
