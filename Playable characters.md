@@ -1,1 +1,1 @@
-The playable characters of the [[Tempus Fangame]] are [[Altor]], [[Curiobot]] and [[Catxel]].
+The playable characters of the [[Tempus Fangame]] are [[Altor]], [[CurioBOT]] and [[Catxel XIII]].

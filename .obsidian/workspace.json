@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Playable characters.md",
+                "file": "CurioBOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altor.md",
+                "file": "Catxel XIII.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altor.md",
+                "file": "Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altor.md",
+                "file": "Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altor.md"
+                "file": "Transcript.md"
               }
             }
           }
@@ -161,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d85a58ece189a859",
+  "active": "312ace39a7142883",
   "lastOpenFiles": [
-    "Playable characters.md",
-    "Altor.md",
+    "CurioBOT.md",
     "Transcript.md",
+    "Catxel XIII.md",
+    "Altor.md",
+    "Playable characters.md",
     "Name Ideas.md",
     "Tempus Fangame.md",
     "Battle System Details.md",
     "Battle Effects.md",
-    "Battle Characters.md",
-    "Available Combat Action.md",
-    "Special Rolls.md"
+    "Battle Characters.md"
   ]
 }
