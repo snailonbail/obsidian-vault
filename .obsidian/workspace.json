@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9d19ed55fdcbabdf",
+        "id": "cb8e242325e6764f",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d1aeabd76fde28",
+            "id": "312ace39a7142883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Name Ideas.md",
+                "file": "Transcript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f344cd35ddc5b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Playable characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d85a58ece189a859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Name Ideas.md",
+                "file": "Altor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Name Ideas.md",
+                "file": "Altor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Name Ideas.md"
+                "file": "Altor.md"
               }
             }
           }
@@ -136,16 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5d1aeabd76fde28",
+  "active": "d85a58ece189a859",
   "lastOpenFiles": [
+    "Playable characters.md",
+    "Altor.md",
+    "Transcript.md",
+    "Name Ideas.md",
     "Tempus Fangame.md",
     "Battle System Details.md",
     "Battle Effects.md",
     "Battle Characters.md",
     "Available Combat Action.md",
-    "Name Ideas.md",
-    "Special Rolls.md",
-    "Game Mechanics.md",
-    "Test.md"
+    "Special Rolls.md"
   ]
 }
