@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Available Combat Action.md",
+                "file": "Name Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Available Combat Action.md",
+                "file": "Name Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Available Combat Action.md",
+                "file": "Name Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Available Combat Action.md"
+                "file": "Name Ideas.md"
               }
             }
           }
@@ -138,12 +138,14 @@
   },
   "active": "f5d1aeabd76fde28",
   "lastOpenFiles": [
+    "Tempus Fangame.md",
     "Battle System Details.md",
+    "Battle Effects.md",
+    "Battle Characters.md",
+    "Available Combat Action.md",
     "Name Ideas.md",
     "Special Rolls.md",
     "Game Mechanics.md",
-    "Available Combat Action.md",
-    "Tempus Fangame.md",
     "Test.md"
   ]
 }
