@@ -13,6 +13,7 @@ He's a warforged warlock.
 
 Skills:
 * Can spout flame with his flamethrower hand;
+* Killing an enemy gives a shield to the character;
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >
