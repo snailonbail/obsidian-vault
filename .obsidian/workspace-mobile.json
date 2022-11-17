@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catxel XIII.md",
+                "file": "Transcript.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Catxel XIII.md",
+                "file": "Transcript.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Catxel XIII.md",
+            "file": "Transcript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Catxel XIII.md",
+            "file": "Transcript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,24 +157,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Catxel XIII.md"
+            "file": "Transcript.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "1df490753d6a73e9",
+  "active": "42852711b8170258",
   "lastOpenFiles": [
+    "Game Mechanics.md",
+    "Transcript.md",
     "Extra Actions.md",
     "CurioBOT.md",
+    "Roll Tempus/Battle Effects.md",
     "Catxel XIII.md",
     "Battle Moves.md",
-    "Roll Tempus/Battle Effects.md",
     "Tempus Fangame.md",
     "Name Ideas.md",
-    "Game Mechanics.md",
-    "Battle System Details.md",
-    "Special Rolls.md"
+    "Battle System Details.md"
   ]
 }
