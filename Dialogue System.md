@@ -24,8 +24,10 @@ diag-example ; face ; gameobject-altor ; down
 
 diag-example ; emotion; gameobject-altor ; surprised
 
-diag-jump ; 
+diag-example ; jump ; gameobject-altor
 
 diag-example ; wait ; 2000
 
+diag-example ; script ; ChangeMusic ; bg-music-03
 
+diag-example ; end
