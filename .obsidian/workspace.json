@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialogue System.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialogue System.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialogue System.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialogue System.md"
+                "file": "Roll Tempus/CurioBOT.md"
               }
             }
           }
@@ -159,15 +159,15 @@
   },
   "active": "47a7d79fc62d78b0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Roll Tempus/Game Mechanics.md",
+    "Roll Tempus/Battle Characters.md",
+    "Roll Tempus/Name Ideas.md",
     "Roll Tempus/Playable characters.md",
     "Roll Tempus/Special Rolls.md",
     "Roll Tempus/Tempus Fangame.md",
     "Roll Tempus/Transcript.md",
-    "Roll Tempus/Move Target.md",
-    "Roll Tempus/Extra Actions.md",
-    "Roll Tempus/Battle System Details.md",
-    "Roll Tempus/Battle Moves.md"
+    "Dialogue System.md",
+    "conflict-files-obsidian-git.md",
+    "Roll Tempus/Game Mechanics.md",
+    "Roll Tempus/Move Target.md"
   ]
 }
