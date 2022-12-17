@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d4526c6ee231b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Altor.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8d2d957007d98ba",
+  "active": "0d4526c6ee231b9e",
   "lastOpenFiles": [
+    "Roll Tempus/Altor.md",
     "Roll Tempus/Available Combat Action.md",
     "Roll Tempus/Battle Effects.md",
     "Roll Tempus/Battle Characters.md",
@@ -146,7 +160,6 @@
     "Roll Tempus/Playable characters.md",
     "Roll Tempus/Special Rolls.md",
     "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Transcript.md",
-    "Roll Tempus/Move Type.md"
+    "Roll Tempus/Transcript.md"
   ]
 }
