@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/Altor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d4526c6ee231b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Battle Characters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Battle Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Battle Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Roll Tempus/Battle Characters.md"
               }
             }
           }
@@ -149,9 +136,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "0d4526c6ee231b9e",
+  "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
     "Roll Tempus/Altor.md",
+    "Untitled.md",
     "Roll Tempus/Available Combat Action.md",
     "Roll Tempus/Battle Effects.md",
     "Roll Tempus/Battle Characters.md",
@@ -159,7 +147,6 @@
     "Roll Tempus/Name Ideas.md",
     "Roll Tempus/Playable characters.md",
     "Roll Tempus/Special Rolls.md",
-    "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Transcript.md"
+    "Roll Tempus/Tempus Fangame.md"
   ]
 }
