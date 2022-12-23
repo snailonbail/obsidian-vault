@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/Battle System Details.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Battle System Details.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Battle System Details.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Battle System Details.md"
+                "file": "Roll Tempus/CurioBOT.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "2412b8c17697035c",
   "lastOpenFiles": [
+    "Roll Tempus/Battle System Details.md",
     "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Dialogue System.md",
@@ -171,7 +172,6 @@
     "Roll Tempus/Move Target.md",
     "Roll Tempus/Move Type.md",
     "Roll Tempus/Moves Power.md",
-    "Roll Tempus/Name Ideas.md",
-    "Roll Tempus/Special Rolls.md"
+    "Roll Tempus/Name Ideas.md"
   ]
 }
