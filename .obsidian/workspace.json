@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d19ed55fdcbabdf",
+        "id": "78f214d10b260a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d1aeabd76fde28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Game Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2412b8c17697035c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/CurioBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a7d79fc62d78b0",
+            "id": "c8d2d957007d98ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,20 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "2412b8c17697035c",
+  "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
-    "Roll Tempus/Battle System Details.md",
     "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/Altor.md",
     "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Dialogue System.md",
     "Roll Tempus/Extra Actions.md",
     "Roll Tempus/Game Mechanics.md",
     "Roll Tempus/Move Target.md",
     "Roll Tempus/Move Type.md",
     "Roll Tempus/Moves Power.md",
-    "Roll Tempus/Name Ideas.md"
+    "Roll Tempus/Name Ideas.md",
+    "Roll Tempus/Playable characters.md"
   ]
 }
