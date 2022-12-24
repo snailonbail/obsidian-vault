@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Transcript.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "10ca05e752072eb7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
     "Roll Tempus/Transcript.md",
-    "Roll Tempus/Altor.md",
-    "Roll Tempus/Battle Characters.md",
-    "Roll Tempus/Battle Moves.md",
+    "Untitled.md",
     "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Catxel XIII.md",
-    "Roll Tempus/Extra Actions.md",
-    "Roll Tempus/Game Mechanics.md"
+    "Roll Tempus/Tempus Fangame.md",
+    "Dialogue System.md",
+    "Untitled 1.md",
+    "Roll Tempus/Battle Characters.md",
+    "Roll Tempus/Available Combat Action.md",
+    "Roll Tempus/Altor.md",
+    "Roll Tempus/Battle Moves.md"
   ]
 }
