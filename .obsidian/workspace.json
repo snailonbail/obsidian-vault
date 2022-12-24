@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10ca05e752072eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c8d2d957007d98ba",
+  "active": "10ca05e752072eb7",
   "lastOpenFiles": [
-    "Roll Tempus/Catxel XIII.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Roll Tempus/Transcript.md",
     "Roll Tempus/Altor.md",
+    "Roll Tempus/Battle Characters.md",
+    "Roll Tempus/Battle Moves.md",
     "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Extra Actions.md",
-    "Roll Tempus/Game Mechanics.md",
-    "Roll Tempus/Move Target.md",
-    "Roll Tempus/Move Type.md",
-    "Roll Tempus/Moves Power.md",
-    "Roll Tempus/Name Ideas.md",
-    "Roll Tempus/Playable characters.md"
+    "Roll Tempus/Game Mechanics.md"
   ]
 }
