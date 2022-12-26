@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/Catxel XIII.md",
+                "file": "Roll Tempus/Transcript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Catxel XIII.md",
+                "file": "Roll Tempus/Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Catxel XIII.md",
+                "file": "Roll Tempus/Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Catxel XIII.md"
+                "file": "Roll Tempus/Transcript.md"
               }
             }
           }
@@ -156,15 +156,15 @@
   },
   "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
-    "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Catxel XIII.md",
-    "Roll Tempus/Transcript.md",
-    "Dialogue System.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Battle Characters.md",
+    "Roll Tempus/Moves Power.md",
+    "Roll Tempus/Dialogue System.md",
+    "Roll Tempus/Game Mechanics.md",
+    "Roll Tempus/Altor.md",
     "Roll Tempus/Available Combat Action.md",
-    "Roll Tempus/Altor.md"
+    "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Transcript.md",
+    "Dialogue System.md"
   ]
 }
