@@ -23,26 +23,11 @@
             "id": "10ca05e752072eb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ccce98f71d570b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Roll Tempus/Transcript.md"
               }
             }
           }
@@ -169,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9ccce98f71d570b",
+  "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
-    "Roll Tempus/Transcript.md",
+    "Dialogue System.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Roll Tempus/Transcript.md",
     "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Tempus Fangame.md",
-    "Dialogue System.md",
-    "Untitled 1.md",
     "Roll Tempus/Battle Characters.md",
     "Roll Tempus/Available Combat Action.md",
     "Roll Tempus/Altor.md",

@@ -83,11 +83,10 @@ CurioBOT has notices a fireplace ring. Among the rubble is an old ring of stones
 	"It's only one way down, you guys ready?"
 
 **Catxel**:
-	"Well let's go down then!"
+	"Well, let's go down then!"
 
 
 Altor peeks over the edge of the ravine. It's just pitch black on the other side of the ravine.
-
 
 **CurioBOT**: 
 	"Catxel, what does you cat-like vision shows us?"
@@ -202,7 +201,7 @@ Since you descended into the ravine, the temperature has plummeted at least 20 d
 	"..."
 	"T-That's creepy, y'all!"
 
- **Altor**:
+ **Altor**: 
 	"You kinda scary dude, aren't you."
 	"I always knew you were kind of a creepy guy, but..."
 
@@ -220,3 +219,4 @@ Since you descended into the ravine, the temperature has plummeted at least 20 d
 **Catxel**:
 	"M-My bad. I love warforgeds!"
 	"They're like the sickest"
+
