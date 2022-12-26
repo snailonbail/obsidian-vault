@@ -1,7 +1,6 @@
 ## CurioBOT
 
 He's a warforged warlock. 
-hp: 22 ?
 
 	Class: Warlock
 	Level: 2
@@ -15,6 +14,10 @@ hp: 22 ?
 Skills:
 * Can spout flame with his flamethrower hand;
 * Killing an enemy gives a shield to the character;
+
+Moves:
+* Agonizing blast;
+* Repeling blast;
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >

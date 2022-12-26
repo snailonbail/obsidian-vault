@@ -218,5 +218,191 @@ Since you descended into the ravine, the temperature has plummeted at least 20 d
 
 **Catxel**:
 	"M-My bad. I love warforgeds!"
-	"They're like the sickest"
+	"They're like the sickest in the world!"
+	"Not even people, but y'know..."
+	"Y'know what I'm sayin, like..."
+	"You get me!"
 
+
+It's much darker here that it was in the ravine.
+
+The narrow stairs narrow into a very small courtyard, apparently the top of what was once a crenellated battlement.
+The buried Citadel has sunk so far into the Earthm that the battlement is now level with the surrounding floor. That floor streeches away into the north and the south, composed of a layer of treacherous crumbled masonry which reaches to an unknown depth.
+To the west looms the surviving structure of what must be the sunless Citadel. A tower stands of the west side of the courtyard.
+You are now in the Sunless Citadel, act with caution!
+
+**Altor:**
+	"This must be the Sunless Citadel!"
+
+**Catxel**:
+	What the fuck is the son of the Citadel?
+	Why do you know that, Tortair?
+	I-I mean, not Tortair.. Altor!
+
+Lady Carowind named it the Sunless Citadel, that's what they call it, because the sun never reaches this far down the ravine.
+
+**Catxel**:
+	Hm, riiight...
+	Okay, I see.
+	Well.... Altor...
+
+**Altor:**
+	I'll take first steps, I'll go first.
+
+Dexterity saving throw
+
+
+**Catxel**:
+	Altor!!
+	Let me do a check before you move first tho, ok??
+	You're ... You're a...
+
+
+**Altor:**
+	What are you gonna say to me, uh?!
+	
+
+**Catxel**:
+	You are slow, man! You're a tortoise!
+
+**Altor:**
+	What does that mean?!
+
+**Catxel**:
+	You can't dodge these booby traps if they come for you!
+
+**Altor:**
+	I'm a turtle and I'm a proud turtle!
+
+
+Altor, you step on that part of the battlement. It's a rectangular thing, and then a cross between the two squares, it pivots on a axis, and it drops you down. You drop 10 feet down into the pit, and evading damage by landing on his shell.
+
+**Altor:**
+	Guys....
+	I-I think this is the Sunless Citadel...
+
+**Curiobot**:
+	I CAN'T HEAR YOU FROM DOWN THERE.
+
+
+Curiobot and Catxel, because it's like a pivoting door, like a trap door, and it's slowly starting to reset back to its flat position. It's already starting to reset!
+
+**Altor:**
+	Oh, shit...
+	Uh, I think we might want to step back one step, uhm...
+	Curiobot, take a step back, it's gonna pivot, so...
+
+**Curiobot**:
+	AFFIRMATIVE!
+	SHOULD WE NOT MAKE AN ATTEMPT TO SAVE OUR PARTY MEMBER?
+
+**Altor:**
+	Hey!!
+	Are you forgetting about me already?!
+
+**Catxel**
+	No! He'll be fine.
+	Since it's coming back up, altor wil lbe able to hop off.
+
+**Curiobot:**
+	NO HE'S DOWN THERE BRO!
+
+**Altor:**
+	How am I suppose to do that from down here?
+	Help me!
+
+**Catxel**
+	OooKAY fine, fine !
+
+You now have 40 seconds before the pit trap fully resets itself.
+
+**Altor:**
+	Hey, throw a rope down here, hurry, up!
+
+
+
+**Curiobot:**
+	CATXEL, I'M GOING TO LAY ACROSS MY EIGHT FOOT FRAME.
+	I'M GOING TO WINCH MYSELF IN BETWEEN THIS.
+	IT IS UP TO YOU!
+
+**Catxel:**
+	"FINE. I'll come down and I'll pick him up, okay?!"
+	"Make sure you down slip or anything, okay?"
+
+Curiobot constitution check.
+
+You feel it like pressuring your wooden and metalic frame, but it's holding, you are holding!
+
+
+**Curiobot:**
+	CATXEL, QUICKLY!
+
+**Catxel**
+	Alright, alright!
+
+**Altor**
+	Whoa, I'm suprised you can carry 450 pounds.
+	450 pounds of FULL MUSCLE!
+
+**Catxel**
+	I'M NOT FUCKING CARRYING YOUR ASS!
+	You're gonna CLIMB yourself up here.
+	You're gonna climb using Curiobots body, alright?!
+	This guy can windstand it, he's a fucking... erm.. what do you call it? Like a war-whatever.
+
+**Curiobot:**
+	I'M A WARFORGED!
+
+**Catxel**
+	Yes that thing, kay?!
+	I'm sorry, I'm a bit dumb here, alright?
+
+Right at this point, we're gonna go ahead and roll initiative.
+
+**Catxel:**
+	Time for some battle, huh!
+
+**Curiobot:**
+	CATXEL I'M WEDGED!
+
+The pit Altor fallen into contains two Goblin skeletons, and one live giant rat, that was feeding on the goglin corpses up until you fell down. It has sized you up while you guys were arguing and has decided that Altor is suitable prey, and it lunges to attack!
+
+
+**Altor:**
+	Bring it on!
+
+
+**Curiobot:**
+	CATXEL YOU MUST JUMP DOWN AND AID OUR FRIEND!
+	IF I MOVE, THE TRAP WILL FALL.
+
+**Altor:**
+	H-HEY GUYS, THERE'S A RAT HERE!
+
+**Catxel:**
+	It's okay, leave it to me, I got this!
+
+*catxel goes down carefurly*
+
+**Catxel:**
+	I mean, altor... 
+	You took a bit too much damage, falling down on your back uh.
+	Let your boy handle this one, how's that, uh?
+
+
+**Altor:**
+	I only took 2 damage...
+
+**Catxel:**
+	I DON'T CARE, AIGHT?
+
+The pit is 10 feet by 5 feet, there's a little nook on the inside and that's were the rat was feasting on goblin flesh.
+
+
+**Curiobot:**
+	CATXEL, STRIKE DOWN OUR FOE!
+
+
+**Catxel:**
+	Alright! Let's get this fight started!
