@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Altor.md"
+                "file": "Roll Tempus/Catxel XIII.md"
               }
             }
           }
@@ -171,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48fe6294003c7110",
+  "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
-    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Altor.md",
     "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Battle Characters.md",
     "Roll Tempus/Name Ideas.md",
     "Roll Tempus/Playable characters.md",
