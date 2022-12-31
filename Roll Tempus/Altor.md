@@ -15,7 +15,7 @@ Skills:
 * Hammer down
 * Ground Pound
 * Lay on Hands
-* Charge
+* Running Charge
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >
