@@ -30,14 +30,12 @@ Skills:
 >Ever since then, he's been chasing that happiness, killing monsters and saving the villages he travels to.*
 
 
+Thank you for such an amazing year with all the incredible support ! !
 
-Thank you for such an amazing year with all the incredibe support ! !
+  
+While 2021 was the year of me going "I'll give this one last chance and if I can't do it I give up for good", 2022 was the "OK damn, but can you keep it up tho?!"
 
-2021 was the year of me going "I'll give this one last chance and if I can't do it I give up for good".
-2022 was the "ok damn, but can you keep it up tho?!".
 
 It was the most gamedev work I got the chance to work on in any given year! Thank you for sticking with me~
 
-
-
-2023 will be insane I promise ! Starting with these two.
+2023 will be insane I promise, starting with these two.
