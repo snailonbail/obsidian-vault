@@ -20,6 +20,7 @@ Moves:
 * Repeling blast;
 * Eldritch blast;
 * Hex
+* Burning Hands;
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >

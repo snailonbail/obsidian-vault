@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e6e16071b1a17ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Rat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48fe6294003c7110",
             "type": "leaf",
             "state": {
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6e16071b1a17ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/Rat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Altor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Altor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md"
+                "file": "Roll Tempus/Altor.md"
               }
             }
           }
@@ -183,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcbd9d2b4f051db",
+  "active": "48fe6294003c7110",
   "lastOpenFiles": [
-    "Roll Tempus/Altor.md",
     "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Altor.md",
     "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Rat.md",
     "Roll Tempus/Battle Characters.md",
