@@ -23,6 +23,7 @@ Moves:
 * Hex
 * Burning Hands;
 * Mocking laugh;
+* Mace Punch;
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >
