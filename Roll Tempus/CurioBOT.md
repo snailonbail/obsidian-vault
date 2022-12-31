@@ -13,7 +13,8 @@ He's a warforged warlock.
 
 Skills:
 * Can spout flame with his flamethrower hand;
-* Killing an enemy gives a shield to the character;
+* Killing an enemy gives a shield to the character; (6 hp)
+* Poison resistance
 
 Moves:
 * Agonizing blast;
@@ -21,6 +22,7 @@ Moves:
 * Eldritch blast;
 * Hex
 * Burning Hands;
+* Mocking laugh;
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >

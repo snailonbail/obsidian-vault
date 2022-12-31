@@ -16,6 +16,7 @@ Skills:
 * Ground Pound
 * Lay on Hands
 * Running Charge
+* Mace strike
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >
