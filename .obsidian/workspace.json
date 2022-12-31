@@ -13,18 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/Transcript.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10ca05e752072eb7",
+            "id": "4dcbd9d2b4f051db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/CurioBOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48fe6294003c7110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/Altor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Transcript.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Transcript.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Transcript.md"
+                "file": "Roll Tempus/Catxel XIII.md"
               }
             }
           }
@@ -156,15 +172,15 @@
   },
   "active": "c8d2d957007d98ba",
   "lastOpenFiles": [
-    "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Moves Power.md",
-    "Roll Tempus/Dialogue System.md",
-    "Roll Tempus/Game Mechanics.md",
-    "Roll Tempus/Altor.md",
-    "Roll Tempus/Available Combat Action.md",
-    "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/Altor.md",
+    "Roll Tempus/Battle Characters.md",
+    "Roll Tempus/Name Ideas.md",
+    "Roll Tempus/Playable characters.md",
+    "Roll Tempus/Special Rolls.md",
+    "Roll Tempus/Tempus Fangame.md",
     "Roll Tempus/Transcript.md",
-    "Dialogue System.md"
+    "Roll Tempus/Moves Power.md"
   ]
 }
