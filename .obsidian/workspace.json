@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e6e16071b1a17ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/Rat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "48fe6294003c7110",
             "type": "leaf",
             "state": {
@@ -176,12 +188,12 @@
     "Roll Tempus/Altor.md",
     "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/Rat.md",
     "Roll Tempus/Battle Characters.md",
     "Roll Tempus/Name Ideas.md",
     "Roll Tempus/Playable characters.md",
     "Roll Tempus/Special Rolls.md",
     "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Transcript.md",
-    "Roll Tempus/Moves Power.md"
+    "Roll Tempus/Transcript.md"
   ]
 }
