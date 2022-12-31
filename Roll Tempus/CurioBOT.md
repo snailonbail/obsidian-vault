@@ -13,7 +13,7 @@ He's a warforged warlock.
 
 Skills:
 * Can spout flame with his flamethrower hand;
-* Killing an enemy gives a shield to the character; (6 hp)
+* Dark One's Blessing - Killing an enemy gives a shield to the character; (6 hp)
 * Poison resistance
 
 Moves:

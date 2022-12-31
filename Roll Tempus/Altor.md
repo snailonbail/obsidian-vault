@@ -12,11 +12,12 @@ hp: 19?
 	Charisma: 12
 
 Skills:
-* Hammer down
+* Warhammer;
 * Ground Pound
 * Lay on Hands
 * Running Charge
 * Mace strike
+* Shield guard
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >

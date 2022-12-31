@@ -19,6 +19,7 @@ Moves:
 * Rapier strike;
 * Sneak attack;
 * Dash
+* Short bow;
 
 
 I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.
