@@ -12,10 +12,10 @@ hp: 19?
 	Charisma: 12
 
 Skills:
-* Warhammer;
+* Warhammer
 * Ground Pound
 * Lay on Hands
-* Running Charge
+* Running Tackle
 * Mace strike
 * Shield guard
 
