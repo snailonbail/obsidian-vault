@@ -11,6 +11,9 @@ hp: 19?
 	Wisdom: 11
 	Charisma: 12
 
+Skills:
+* Hammer down
+
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >

@@ -20,6 +20,7 @@ Moves:
 * Sneak attack;
 * 
 
+
 I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.
 
 Hella outgoing, he's always got a smile on his face, always happy.
