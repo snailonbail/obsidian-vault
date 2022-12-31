@@ -14,6 +14,7 @@ hp: 19?
 Skills:
 * Hammer down
 * Ground Pound
+* Lay on Hands
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >

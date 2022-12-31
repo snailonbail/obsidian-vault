@@ -18,6 +18,8 @@ Skills:
 Moves:
 * Agonizing blast;
 * Repeling blast;
+* Eldritch blast;
+* Hex
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
 >
