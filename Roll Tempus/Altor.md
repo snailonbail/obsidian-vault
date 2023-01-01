@@ -31,7 +31,7 @@ Moves:
 * Divine smite       04   - Wisdom           - Deal extra damage to all foes the user attacked this turn
 * Lay on Hands     13   - Constitution     - Heal self health
 * Warhammer       18   - Strenght           - High damage to 1 foe, lowers strenght of enemy 
-
+	
 
 
 >*Altor was born under the bright moonlight on a sandy beach.

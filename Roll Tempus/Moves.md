@@ -31,6 +31,7 @@ Effects
 * Stun          - The character is unable to do any action
 * Hidden     - Make enemies not target the user if possible
 * Poison      - Receive some damage at the end of each turn
+* Bleed        - Receive some damage for each move this character uses
 
 Passives
 * Pack Tactics                   - Get bonus strength and dexterity for each active party member       - giant rat
