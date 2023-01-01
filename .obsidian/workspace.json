@@ -18,54 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2cc54e80ddf47c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Altor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3056ff3ca0acbf1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Giant Rat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c3e31a3f294b9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/CurioBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8af8a3efca11e7de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Catxel XIII.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -117,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8cf3ca2c4fce4f8f",
@@ -197,10 +149,10 @@
   "active": "b1f8d62359177e8e",
   "lastOpenFiles": [
     "Roll Tempus/Altor.md",
-    "Roll Tempus/Giant Rat.md",
-    "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Moves.md",
+    "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Giant Rat.md",
+    "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Effects.md",
     "Roll Tempus/Battle Effects.md",
     "Roll Tempus/Dialogue System 1.md",
