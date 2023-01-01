@@ -19,17 +19,17 @@ Passive:
 
 Moves:
 ~ level 1 ~
-* Eldritch Blast       - Charisma      - Deal high damage to one enemy
-* Burning Hands    - Inteligence   - Deal damage to all enemies, with a chance of inflicting "burn" effect
-* Mocking Laugh   - Charisma      - Inflict "angry" effect, making the character deal and receive more damage
+* Eldritch Blast        16  - Charisma      - Deal high damage to one enemy
+* Burning Hands     14  - Inteligence   - Deal damage to all enemies, with a chance of inflicting "burn" effect
+* Mocking Laugh    09   - Charisma      - Inflict "angry" effect, making the character deal and receive more damage
 
 ~ level 2 ~
-* Hex Curse            - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
-* Agonizing Blast   - Charisma      - Deals bonus damage for each effect the target has
-* Repeling Blast     - Wisdom        - Chance of stunning the targer
+* Hex Curse            11 - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
+* Agonizing Blast   17 - Charisma      - Deals bonus damage for each effect the target has
+* Repeling Blast     12 - Wisdom        - Chance of stunning the targer
 
 ~ level 3 ~
-* Mace Punch        - Strength       -  Cheap low damage attack
+* Mace Punch        04 - Strength       -  Cheap low damage attack
 
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 

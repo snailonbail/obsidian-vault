@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48fe6294003c7110",
+            "id": "b1f8d62359177e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/Moves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cc54e80ddf47c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +32,19 @@
             }
           },
           {
-            "id": "20270f91e297014c",
+            "id": "3056ff3ca0acbf1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/Giant Rat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c3e31a3f294b9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,24 +56,12 @@
             }
           },
           {
-            "id": "1da9bc68841b72fb",
+            "id": "8af8a3efca11e7de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Roll Tempus/Catxel XIII.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dcbd9d2b4f051db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Giant Rat.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Roll Tempus/Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Altor.md",
+                "file": "Roll Tempus/Moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Altor.md"
+                "file": "Roll Tempus/Moves.md"
               }
             }
           }
@@ -182,17 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48fe6294003c7110",
+  "active": "b1f8d62359177e8e",
   "lastOpenFiles": [
-    "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Altor.md",
     "Roll Tempus/Giant Rat.md",
-    "Roll Tempus/Battle Characters.md",
-    "Roll Tempus/Name Ideas.md",
-    "Roll Tempus/Playable characters.md",
-    "Roll Tempus/Special Rolls.md",
-    "Roll Tempus/Tempus Fangame.md",
-    "Roll Tempus/Transcript.md"
+    "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Catxel XIII.md",
+    "Roll Tempus/Moves.md",
+    "Roll Tempus/Effects.md",
+    "Roll Tempus/Battle Effects.md",
+    "Roll Tempus/Dialogue System 1.md",
+    "Roll Tempus/Battle Moves.md",
+    "Roll Tempus/Battle System Details.md"
   ]
 }

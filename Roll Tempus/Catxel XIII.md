@@ -20,14 +20,14 @@ Passive:
 
 Moves:
 ~ level 1 ~
-* Rapier Strike          - Dexterity      - Normal damage to one foe
-* Hide in Shadows   - Wisdom       - Apply the "hidden" effect to the user, making enemies not target next turn
-* Investigation         - Inteligence   - Gain information of the targets weaknesses and strenghts
+* Rapier Strike           11   - Dexterity      - Normal damage to one foe
+* Hide in Shadows    12   - Wisdom       - Apply the "hidden" effect to the user, making enemies not target next turn
+* Investigation          06   - Inteligence   - Gain information of the targets weaknesses and strenghts
 
 ~ level 2 ~
-* Sneak Attack          - Dexterity     - High damage which can only be used if the user is hidden
-* Short Bow              - Dexterity     - An attack slightly powerful but with less accuracy
-* Disengage              - Wisdom      - End the turn instantly, and heal for unused energy
+* Sneak Attack       18    - Dexterity     - High damage which can only be used if the user is hidden
+* Short Bow           15    - Dexterity     - An attack slightly powerful but with less accuracy
+* Disengage           07   - Wisdom      - End the turn instantly, and heal for unused energy
 
 
 >I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.

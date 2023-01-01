@@ -14,6 +14,6 @@ Passive:
 * Pack Tatics    -  Get bonus strength and dexterity for each alive party member 
 
 Moves:
-* Vicious bite             - Strenght
-* Venomous fang      - Constitution
-* Troublemaker         - Wisdom
+* Vicious bite          10   - Strength
+* Venomous fang   14   - Constitution
+* Troublemaker       06  - Wisdom

@@ -2,7 +2,7 @@
 
 He is a turtle, paladin, folk hero, who is neutral good.
 hp: 19?
-	
+
 	Class: Paladin
 	Level: 2
 	Strenght: 16
@@ -20,14 +20,14 @@ Passive:
 
 Moves:
 ~ level 1 ~
-* Running Tackle     - Dexterity         - Chance of inflicting "stun" to a character
-* Mace Strike           - Strenght           - Normal damage to 1 foe
-* Shield Guard         - Constitution     - Boost strenght and constitution until next turn
+* Running Tackle  12   - Dexterity         - Chance of inflicting "stun" to a character
+* Mace Strike        08   - Strenght           - Normal damage to 1 foe
+* Shield Guard      07   - Constitution     - Boost strenght and constitution until next turn
 
 ~ level 2 ~
-* Ground Pound     - Strenght          - Attack all enemies, chance to stun everyone
-* Lay on Hands       - Constitution    - Heal self health
-* Warhammer         - Strenght           - High damage to 1 foe, lowers strenght of enemy 
+* Ground Pound   17   - Strenght          - Attack all enemies, chance to stun everyone
+* Lay on Hands     13   - Constitution    - Heal self health
+* Warhammer       18   - Strenght           - High damage to 1 foe, lowers strenght of enemy 
 
 
 >*Altor was born under the bright moonlight on a sandy beach.
