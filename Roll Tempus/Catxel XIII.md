@@ -17,15 +17,14 @@ Skills:
 
 Moves:
 ~ level 1 ~
-* Rapier Strike
-* Hide in Shadows;
-* Investigation;
-
+* Rapier Strike          - Dexterity
+* Hide in Shadows    - Dexterity
+* Investigation          - Inteligence 
 
 ~ level 2 ~
-* Sneak Attack;
-* Short Bow;
-* Disengage;
+* Sneak Attack          -
+* Short Bow              - 
+* Disengage              - Wisdom
 
 
 

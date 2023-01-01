@@ -11,13 +11,20 @@ hp: 19?
 	Wisdom: 11
 	Charisma: 12
 
+
+
 Skills:
-* Warhammer
-* Ground Pound
-* Lay on Hands
-* Running Tackle
-* Mace Strike
-* Shield guard
+~ level 1 ~
+* Warhammer     - Strenght
+* Mace Strike      - Strenght
+* Shield Guard    - Constitution
+
+~ level 2 ~
+* Ground Pound  - Strenght
+* Lay on Hands    - Constitution
+* Running Tackle  - Dexterity
+
+
 
 >*Altor was born under the bright moonlight on a sandy beach.
 >
