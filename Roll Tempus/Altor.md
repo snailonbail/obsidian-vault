@@ -18,6 +18,9 @@ Overworld:
 Passive:
 * Crushing Force     - Deals bonus damage to stunned enemies
 
+Power Move: 
+* Ground Pound   20   - Strenght          - Attack all enemies, chance to stun everyone
+
 Moves:
 ~ level 1 ~
 * Running Tackle  12   - Dexterity         - Chance of inflicting "stun" to a character
@@ -25,12 +28,10 @@ Moves:
 * Shield Guard      07   - Constitution     - Boost strenght and constitution until next turn
 
 ~ level 2 ~
-* Ground Pound   17   - Strenght          - Attack all enemies, chance to stun everyone
-* Lay on Hands     13   - Constitution    - Heal self health
+* Divine smite       04   - Wisdom           - Deal extra damage to all foes the user attacked this turn
+* Lay on Hands     13   - Constitution     - Heal self health
 * Warhammer       18   - Strenght           - High damage to 1 foe, lowers strenght of enemy 
 
-~ level 3 ~
-* Divine smite 
 
 
 >*Altor was born under the bright moonlight on a sandy beach.

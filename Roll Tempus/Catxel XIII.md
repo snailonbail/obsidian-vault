@@ -18,6 +18,9 @@ Overworld:
 Passive:
 * Keen Eye        - Higher chance of dodging strenght and dexterity moves;
 
+Power move:
+* Thousand Knives     20  -  Dexterity     - Damage and apply "bleed" to all enemies
+
 Moves:
 ~ level 1 ~
 * Rapier Strike           11   - Dexterity      - Normal damage to one foe

@@ -18,18 +18,20 @@ Passive:
 * Dark One's Blessing   - Killing an enemy gives a shield to the character; (6 hp)
 
 Moves:
+
+Power Move: 
+* Agonizing Blast   17 - Charisma      - Deals bonus damage for each effect the target has
+
 ~ level 1 ~
-* Eldritch Blast        16  - Charisma      - Deal high damage to one enemy
+* Eldritch Blast        12  - Charisma      - Deal high damage to one enemy
 * Burning Hands     14  - Inteligence   - Deal damage to all enemies, with a chance of inflicting "burn" effect
 * Mocking Laugh    09   - Charisma      - Inflict "angry" effect, making the character deal and receive more damage
 
 ~ level 2 ~
-* Hex Curse            11 - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
-* Agonizing Blast   17 - Charisma      - Deals bonus damage for each effect the target has
+* Hex Curse            05 - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
+* Mace Punch        04 - Strength       -  Cheap low damage attack
 * Repeling Blast     12 - Wisdom        - Chance of stunning the targer
 
-~ level 3 ~
-* Mace Punch        04 - Strength       -  Cheap low damage attack
 
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 

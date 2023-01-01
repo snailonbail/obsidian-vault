@@ -13,8 +13,11 @@ Moves
 * Disengage            07 - Wisdom           - End the users' turn immediately, and heal for all the unused energy
 * Running Tackle    12 - Dexterity          - Damage one foe, with a chance to "stun" it
 * Mace Strike          08 - Strenght           - Damage one enemy
+* Mace Punch         04 - Strength            -  Cheap low damaging attack to one foe
 * Shield Guard        07 - Constitution     - Boost the strength and constitution of the user until the next turn
-* Ground Pound     17 - Strenght           - Attack that damages all enemies, with a chance to "stun" each one
+* Ground Pound      20   - Strenght          - Attack all enemies, chance to stun everyone
+* Divine smite          04   - Wisdom           - Deal extra damage to all foes the user attacked this turn
+* Thousand Knives  20  -  Dexterity         - Damage and apply "bleed" to all enemies
 * Lay on Hands       13 - Constitution     - Heal some hitpoints of the user
 * Warhammer         18 - Strenght           - Deal high damage to one foe, with the chance of lowering its strength
 * Vicious bite          10 - Strength           - Deal some damage to one foe
