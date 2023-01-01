@@ -1,6 +1,7 @@
 ## CurioBOT
 
 He's a warforged warlock. 
+hp: 22
 
 	Class: Warlock
 	Level: 2
