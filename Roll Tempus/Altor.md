@@ -2,7 +2,7 @@
 
 He is a turtle, paladin, folk hero, who is neutral good.
 hp: 19?
-
+	
 	Class: Paladin
 	Level: 2
 	Strenght: 16
@@ -43,3 +43,5 @@ Moves:
 >After a long and arduous battle, he stood atop the boar and felt happiness. Happy that he was helpful to others. Happy that he saved someone. Happy that he was able to show his strength.
 >
 >Ever since then, he's been chasing that happiness, killing monsters and saving the villages he travels to.*
+
+A tortle happy to help others
