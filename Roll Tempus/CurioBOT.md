@@ -11,13 +11,14 @@ He's a warforged warlock.
 	Wisdom: 15
 	Charisma: 18	
 
-Skills:
-* Can spout flame with his flamethrower hand;
-* Dark One's Blessing - Killing an enemy gives a shield to the character; (6 hp)
-* Poison resistance
+Overworld:
+* Burning Hands    - Light bonfires
+* Bridge                 - Become a bridge
+
+Passive:
+* Dark One's Blessing   - Killing an enemy gives a shield to the character; (6 hp)
 
 Moves:
-
 ~ level 1 ~
 * Eldritch Blast       - Charisma      - Deal high damage to one enemy
 * Burning Hands    - Inteligence   - Deal damage to all enemies, with a chance of inflicting "burn" effect
@@ -25,11 +26,11 @@ Moves:
 
 ~ level 2 ~
 * Hex Curse            - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
-* Agonizing Blast   - Charisma      -
-* Repeling Blast     - Wisdom
+* Agonizing Blast   - Charisma      - Deals bonus damage for each effect the target has
+* Repeling Blast     - Wisdom        - Chance of stunning the targer
 
 ~ level 3 ~
-* Mace Punch        - Strength
+* Mace Punch        - Strength       -  Cheap low damage attack
 
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 

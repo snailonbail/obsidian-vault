@@ -11,9 +11,14 @@ hp: 19?
 	Wisdom: 11
 	Charisma: 12
 
+Overworld:
+* Break doors and other weak obstacles;
+* See enemy vision
 
+Passive:
+* 
 
-Skills:
+Moves:
 ~ level 1 ~
 * Warhammer     - Strenght           - High damage to 1 foe, lowers strenght of enemy 
 * Mace Strike      - Strenght           - Normal damage to 1 foe
@@ -23,7 +28,6 @@ Skills:
 * Ground Pound  - Strenght          - Attack all enemies, chance to stun everyone
 * Lay on Hands    - Constitution    - Heal self health
 * Running Tackle  - Dexterity         - Chance of inflicting "stun" to a character
-
 
 
 >*Altor was born under the bright moonlight on a sandy beach.
