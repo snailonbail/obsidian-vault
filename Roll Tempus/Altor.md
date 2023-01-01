@@ -2,6 +2,7 @@
 
 He is a turtle, paladin, folk hero, who is neutral good.
 hp: 19?
+
 	Class: Paladin
 	Level: 2
 	Strenght: 16

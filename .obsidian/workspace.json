@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1da9bc68841b72fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roll Tempus/CurioBOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4dcbd9d2b4f051db",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/Big Rat.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/Big Rat.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/Big Rat.md"
+                "file": "Roll Tempus/CurioBOT.md"
               }
             }
           }
@@ -171,12 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "920232a6ea24253d",
+  "active": "1da9bc68841b72fb",
   "lastOpenFiles": [
     "Roll Tempus/Catxel XIII.md",
-    "Roll Tempus/Big Rat.md",
-    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Altor.md",
+    "Roll Tempus/CurioBOT.md",
+    "Roll Tempus/Big Rat.md",
     "Roll Tempus/Battle Characters.md",
     "Roll Tempus/Name Ideas.md",
     "Roll Tempus/Playable characters.md",

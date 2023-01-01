@@ -1,4 +1,4 @@
 Moves:
-* Vicious bite
-* Venomous fang
-* 
+* Vicious bite             - Strenght
+* Venomous fang      - Constitution
+* Troublemaker         - Wisdom
