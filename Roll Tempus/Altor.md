@@ -28,6 +28,8 @@ Moves:
 * Ground Pound   17   - Strenght          - Attack all enemies, chance to stun everyone
 * Lay on Hands     13   - Constitution    - Heal self health
 * Warhammer       18   - Strenght           - High damage to 1 foe, lowers strenght of enemy 
+
+~ level 3 ~
 * Divine smite 
 
 
