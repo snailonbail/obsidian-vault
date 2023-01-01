@@ -2,8 +2,6 @@
 
 He's a warforged warlock. 
 
-
-
 	Class: Warlock
 	Level: 2
 	Strength: 4
