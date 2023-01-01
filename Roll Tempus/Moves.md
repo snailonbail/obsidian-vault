@@ -23,6 +23,8 @@ Moves
 * Vicious bite          10 - Strength           - Deal some damage to one foe
 * Venomous fang    14 - Constitution    - Damage and apply "poison" to target
 * Troublemaker        06 - Wisdom           - Boost a random stat of the user
+* Hyper Fang           20 - Strength           - Powerful attack that also makes the target "bleed"
+
 
 Effects
 * Burn          - Receive some damage at the start of each turn

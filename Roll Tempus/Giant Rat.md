@@ -2,6 +2,7 @@
 
 14 hit points
 
+
 	Class: Small beast
 	Strength: 7
 	Dexterity: 15
@@ -12,6 +13,9 @@
 
 Passive:
 * Pack Tatics    -  Get bonus strength and dexterity for each alive party member 
+
+Crit move:
+* Hyper Fang          20 - Strength
 
 Moves:
 * Vicious bite          10   - Strength
