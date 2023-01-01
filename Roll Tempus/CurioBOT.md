@@ -17,12 +17,12 @@ Skills:
 * Poison resistance
 
 Moves:
-* Agonizing blast
-* Repeling blast
-* Eldritch blast
-* Hex
+* Hex Curse
+* Eldritch Blast
+* Agonizing Blast
+* Repeling Blast
 * Burning Hands
-* Mocking laugh
+* Mocking Laugh
 * Mace Punch
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 

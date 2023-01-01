@@ -16,7 +16,7 @@ Skills:
 * Ground Pound
 * Lay on Hands
 * Running Tackle
-* Mace strike
+* Mace Strike
 * Shield guard
 
 >*Altor was born under the bright moonlight on a sandy beach.
