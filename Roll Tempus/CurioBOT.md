@@ -12,8 +12,7 @@ He's a warforged warlock.
 	Charisma: 18	
 
 Overworld:
-* Burning Hands    - Light bonfires
-* Bridge                 - Become a bridge
+* Become Bridge   - Become a bridge
 
 Passive:
 * Dark One's Blessing   - Killing an enemy gives a shield to the character; (6 hp)

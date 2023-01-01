@@ -1,3 +1,0 @@
-Moves:
-* Bite
-* Poison

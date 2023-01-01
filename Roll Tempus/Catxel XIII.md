@@ -13,11 +13,10 @@ hp: 20 ?
 	Charisma: 15
 
 Overworld:
-* Dark Vision   - Can see in the dark with his dark vision;
-* 
+* Dark Vision    - Can see in the dark with his dark vision;
 
 Passive:
-* 
+* Keen Eye        - Higher chance of dodging strenght and dexterity moves;
 
 Moves:
 ~ level 1 ~
@@ -31,7 +30,6 @@ Moves:
 * Disengage              - Wisdom      - End the turn instantly, and heal for unused energy
 
 
-
-I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.
-
-Hella outgoing, he's always got a smile on his face, always happy.
+>I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.
+>
+>Hella outgoing, he's always got a smile on his face, always happy.

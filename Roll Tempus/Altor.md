@@ -12,22 +12,21 @@ hp: 19?
 	Charisma: 12
 
 Overworld:
-* Break doors and other weak obstacles;
-* See enemy vision
+* Hammer Down     - Break doors and other weak obstacles;
 
 Passive:
-* 
+* Crushing Force     - Deals bonus damage to stunned enemies
 
 Moves:
 ~ level 1 ~
-* Warhammer     - Strenght           - High damage to 1 foe, lowers strenght of enemy 
-* Mace Strike      - Strenght           - Normal damage to 1 foe
-* Shield Guard    - Constitution     - Boost strenght and constitution until next turn
+* Running Tackle     - Dexterity         - Chance of inflicting "stun" to a character
+* Mace Strike           - Strenght           - Normal damage to 1 foe
+* Shield Guard         - Constitution     - Boost strenght and constitution until next turn
 
 ~ level 2 ~
-* Ground Pound  - Strenght          - Attack all enemies, chance to stun everyone
-* Lay on Hands    - Constitution    - Heal self health
-* Running Tackle  - Dexterity         - Chance of inflicting "stun" to a character
+* Ground Pound     - Strenght          - Attack all enemies, chance to stun everyone
+* Lay on Hands       - Constitution    - Heal self health
+* Warhammer         - Strenght           - High damage to 1 foe, lowers strenght of enemy 
 
 
 >*Altor was born under the bright moonlight on a sandy beach.
@@ -43,14 +42,3 @@ Moves:
 >After a long and arduous battle, he stood atop the boar and felt happiness. Happy that he was helpful to others. Happy that he saved someone. Happy that he was able to show his strength.
 >
 >Ever since then, he's been chasing that happiness, killing monsters and saving the villages he travels to.*
-
-
-Thank you for such an amazing year with all the incredible support ! !
-
-  
-While 2021 was the year of me going "I'll give this one last chance and if I can't do it I give up for good", 2022 was the "OK damn, but can you keep it up tho?!"
-
-
-It was the most gamedev work I got the chance to work on in any given year! Thank you for sticking with me~
-
-2023 will be insane I promise, starting with these two.
