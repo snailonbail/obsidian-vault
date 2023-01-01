@@ -1,6 +1,6 @@
 ## Catxel XIII
 
-A mysterious rogue.
+An outgoing but mysterious rogue.
 hp: 20 ?
 
 	Class: Rogue

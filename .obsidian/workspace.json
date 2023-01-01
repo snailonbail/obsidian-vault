@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/Catxel XIII.md",
+                "file": "Roll Tempus/CurioBOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Catxel XIII.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Altor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Altor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md"
+                "file": "Roll Tempus/Altor.md"
               }
             }
           }
@@ -183,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1da9bc68841b72fb",
+  "active": "48fe6294003c7110",
   "lastOpenFiles": [
+    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Altor.md",
-    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Giant Rat.md",
     "Roll Tempus/Battle Characters.md",
     "Roll Tempus/Name Ideas.md",
