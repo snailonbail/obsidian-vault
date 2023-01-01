@@ -1,16 +1,16 @@
 ## CurioBOT
 
 He's a warforged warlock. 
-hp: 22
+hp: 22 (d8)
 
 	Class: Warlock
 	Level: 2
-	Strength: 4
-	Dexterity: 15
-	Constitution: 17
-	Inteligence: 8
-	Wisdom: 15
-	Charisma: 18	
+	Strength: 4       0
+	Dexterity: 15     2  
+	Constitution: 17  3 
+	Inteligence: 8    1
+	Wisdom: 15        2
+	Charisma: 18	    4
 
 Overworld:
 * Become Bridge   - Become a bridge

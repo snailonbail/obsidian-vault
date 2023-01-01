@@ -1,7 +1,7 @@
 ## Altor 
 
 He is a turtle, paladin, folk hero, who is neutral good.
-hp: 19
+hp: 19 (d10)
 
 	Class: Paladin
 	Level: 2

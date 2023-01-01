@@ -1,13 +1,13 @@
 ## Giant Rat
 
-14 hit points
+14 hit points (d6)
 
 
 	Class: Small beast
 	Strength: 7        2
-	Dexterity: 15      3
-	Constitution: 11   1
-	Inteligence: 2     0
+	Dexterity: 15      4
+	Constitution: 11   2
+	Inteligence: 2     1
 	Wisdom: 10         2
 	Charisma: 4	     1  
 
