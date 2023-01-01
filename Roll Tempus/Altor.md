@@ -15,14 +15,14 @@ hp: 19?
 
 Skills:
 ~ level 1 ~
-* Warhammer     - Strenght
-* Mace Strike      - Strenght
-* Shield Guard    - Constitution
+* Warhammer     - Strenght           - High damage to 1 foe, lowers strenght of enemy 
+* Mace Strike      - Strenght           - Normal damage to 1 foe
+* Shield Guard    - Constitution     - Boost strenght and constitution until next turn
 
 ~ level 2 ~
-* Ground Pound  - Strenght
-* Lay on Hands    - Constitution
-* Running Tackle  - Dexterity
+* Ground Pound  - Strenght          - Attack all enemies, chance to stun everyone
+* Lay on Hands    - Constitution    - Heal self health
+* Running Tackle  - Dexterity         - Chance of inflicting "stun" to a character
 
 
 

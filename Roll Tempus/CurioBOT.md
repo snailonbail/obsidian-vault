@@ -19,17 +19,17 @@ Skills:
 Moves:
 
 ~ level 1 ~
-* Eldritch Blast
-* Burning Hands
-* Mocking Laugh
+* Eldritch Blast       - Charisma      - Deal high damage to one enemy
+* Burning Hands    - Inteligence   - Deal damage to all enemies, with a chance of inflicting "burn" effect
+* Mocking Laugh   - Charisma      - Inflict "angry" effect, making the character deal and receive more damage
 
 ~ level 2 ~
-* Hex Curse
-* Agonizing Blast
-* Repeling Blast
+* Hex Curse            - Wisdom       - Inflict "hex" to enemy, making user deal extra damage to that character
+* Agonizing Blast   - Charisma      -
+* Repeling Blast     - Wisdom
 
 ~ level 3 ~
-* Mace Punch
+* Mace Punch        - Strength
 
 
 >*Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. 
