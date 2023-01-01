@@ -4,12 +4,12 @@
 
 
 	Class: Small beast
-	Strength: 7
-	Dexterity: 15
-	Constitution: 11
-	Inteligence: 2
-	Wisdom: 10
-	Charisma: 4	
+	Strength: 7        2
+	Dexterity: 15      3
+	Constitution: 11   1
+	Inteligence: 2     0
+	Wisdom: 10         2
+	Charisma: 4	     1  
 
 Passive:
 * Pack Tatics    -  Get bonus strength and dexterity for each alive party member 

@@ -5,12 +5,12 @@ hp: 19
 
 	Class: Paladin
 	Level: 2
-	Strenght: 16
-	Dexterity: 11
-	Constitution: 13
-	Inteligence: 9
-	Wisdom: 11
-	Charisma: 12
+	Strenght: 16       4
+	Dexterity: 11      1
+	Constitution: 13   2
+	Inteligence: 9     1
+	Wisdom: 11         2
+	Charisma: 12       2
 
 Overworld:
 * Hammer Down     - Break doors and other weak obstacles;

@@ -5,12 +5,12 @@ hp: 20
 
 	Class: Rogue
 	Level: 2
-	Strenght: 12
-	Dexterity: 18
-	Constitution: 15
-	Inteligence: 10
-	Wisdom: 11
-	Charisma: 15
+	Strenght: 12         2
+	Dexterity: 18        4
+	Constitution: 15     3
+	Inteligence: 10      1
+	Wisdom: 11           1
+	Charisma: 15         1
 
 Overworld:
 * Dark Vision    - Can see in the dark with his dark vision;
