@@ -7,7 +7,7 @@ Moves
 * Repelling  Blast         - Wisdom           - Attack one foe with a chance to "stun" it
 * Rapier Strike             - Dexterity          - Normal damage to one foe
 * Hide in Shadows       - Wisdom           - Apply "hidden" effect to the user, enemies won't target the user next turn
-* Investigation             - Inteligence       - Gain information on the targets' weaknesses and strengths
+* Investigation             - Intelligence       - Gain information on the targets' weaknesses and strengths
 * Sneak Attack             - Dexterity          - High damage to an enemy, can only be used if the user is "hidden"
 * Short Bow                 - Dexterity          - A low accuracy but more damaging move
 * Disengage                 - Wisdom           - End the users' turn immediately, and heal for all the unused energy
@@ -25,12 +25,12 @@ Effects
 * Burn          - Receive some damage at the start of each turn
 * Angry        - Both deal and receive more damage
 * Hex           - Receive more damage from the curse user 
-* Stun          - Character is unable to do any action
+* Stun          - The character is unable to do any action
 * Hidden     - Make enemies not target the user if possible
 * Poison      - Receive some damage at the end of each turn
 
 Passives
-* Pack Tatics                   - Get bonus strength and dexterity for each active party member       - giant rat
+* Pack Tactics                   - Get bonus strength and dexterity for each active party member       - giant rat
 * Crushing Force            - Deals bonus damage to stunned enemies                                          - altor
 * Keen Eye                      - Higher chance of dodging strength and dexterity moves                  - catxel
 * Dark One's Blessing    - Receive a shield each time the character defeats a foe                       - curiobot
