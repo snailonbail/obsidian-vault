@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialogue System.md",
+                "file": "Roll Tempus/Transcript.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dialogue System.md",
+                "file": "Roll Tempus/Transcript.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dialogue System.md",
+            "file": "Roll Tempus/Transcript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dialogue System.md",
+            "file": "Roll Tempus/Transcript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dialogue System.md"
+            "file": "Roll Tempus/Transcript.md"
           }
         }
       }
@@ -166,6 +166,8 @@
   },
   "active": "42852711b8170258",
   "lastOpenFiles": [
+    "Roll Tempus/Move Target.md",
+    "Dialogue System.md",
     "Transcript.md",
     "Game Mechanics.md",
     "Extra Actions.md",
@@ -173,8 +175,6 @@
     "Roll Tempus/Battle Effects.md",
     "Catxel XIII.md",
     "Battle Moves.md",
-    "Tempus Fangame.md",
-    "Name Ideas.md",
-    "Battle System Details.md"
+    "Tempus Fangame.md"
   ]
 }
