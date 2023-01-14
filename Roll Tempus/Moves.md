@@ -37,7 +37,7 @@ Effects
 
 Passives
 * Pack Tactics                  - Get bonus strength and dexterity for each active party member       - giant rat
-* Crushing Force            - Deals bonus damage to stunned enemies                                          - altor
+* Crushing Force             - Deals bonus damage to stunned enemies                                          - altor
 * Keen Eye                      - Higher chance of dodging strength and dexterity moves                  - catxel
 * Dark One's Blessing    - Receive a shield each time the character defeats a foe                       - curiobot
 

@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "df6815203891a66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/CurioBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01c49234b0cb7824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Altor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e3389d68514d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e681120e7bd9668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/Altor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "133aaede4204348c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roll Tempus/CurioBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Moves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Roll Tempus/Moves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Roll Tempus/Moves.md"
               }
             }
           }
@@ -207,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88e3389d68514d35",
+  "active": "b1f8d62359177e8e",
   "lastOpenFiles": [
     "Roll Tempus/Altor.md",
+    "Untitled.md",
     "Roll Tempus/Battle Moves.md",
     "Roll Tempus/Available Combat Action.md",
     "Roll Tempus/Battle Characters.md",
@@ -217,7 +157,6 @@
     "Roll Tempus/Battle System Details.md",
     "Roll Tempus/Moves.md",
     "Roll Tempus/Move Type.md",
-    "Roll Tempus/Giant Rat.md",
-    "Roll Tempus/Catxel XIII.md"
+    "Roll Tempus/Giant Rat.md"
   ]
 }
