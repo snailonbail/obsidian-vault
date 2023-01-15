@@ -46,3 +46,51 @@ Damage levels
 * normal damage   :  ((user stat - enemy stat) * 0.6) + 10 
 * high damage       :  ((user stat - enemy stat) * 0.6) + 15
 
+
+Angry:
+{0} got angry!
+{0} is seeing red!
+{0} calmed down.
+
+Burn:
+{0} is on fire!
+{0} was hurt by the flames!
+{0} is no longer burning.
+
+Hex:
+{0} was the target of a curse!
+{0} received extra damage because of the curse!
+{0}'s curse was dispelled.
+
+Stun:
+{0} was stunned!
+{0} can't act because of the stun!
+{0} is no longer stunned!
+
+Hidden:
+{0} crouched and became invisible!
+{0} is invisible to the naked eye!
+{0} is no longer hidden.
+
+Poison:
+{0} got poisoned!
+{0} was hurt bu the poison!
+{0} is no longer poisoned.
+
+Bleed
+{0} started bleeding!
+{0} bled while moving!
+{0} is no longer bleeding out.
+
+Pack Tactics
+n/a
+
+Crushing Force
+{0} crushed its foe!
+
+Keen Eye
+{0} saw that coming a mile away!
+
+Dark One's Blessing
+{0} absorbed the cries of its enemies!
+
