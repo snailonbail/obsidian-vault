@@ -12,6 +12,14 @@ hp: 20 (d8)
 	Wisdom: 11           1
 	Charisma: 15         1
 
+
+str
+dex
+con
+int
+wis
+cha
+
 Overworld:
 * Dark Vision    - Can see in the dark with his dark vision;
 
