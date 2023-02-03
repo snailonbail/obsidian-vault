@@ -3,7 +3,7 @@ Moves
 * ! Burning Hands    14  - Intelligence      - Deal damage to all enemies, with a chance of inflicting "burn" effect
 * ! Mocking Laugh   09  - Charisma          - Inflict "angry" to target, making it both deal and receive more damage
 * ! Hex Curse            11 - Wisdom           - Inflict "hex" to an enemy, making the user deal extra damage to the target
-* Agonizing Blast   17  - Charisma          - Deals bonus damage for each distinct effect the target has
+* ! Agonizing Blast   17  - Charisma          - Deals bonus damage for each distinct effect the target has
 * ! Repelling  Blast    12 - Wisdom           - Attack one foe with a chance to "stun" it
 * ! Rapier Strike        11  - Dexterity          - Normal damage to one foe
 * ! Hide in Shadows  12 - Wisdom           - Apply "hidden" effect to the user, enemies won't target the user next turn
@@ -14,7 +14,7 @@ Moves
 * ! Running Tackle    12 - Dexterity          - Damage one foe, with a chance to "stun" it
 * ! Mace Strike          08 - Strenght           - Damage one enemy
 * ! Mace Punch         04 - Strength            -  Cheap low damaging attack to one foe
-* ? Shield Guard        07 - Constitution     - Boost the strength and constitution of the user until the next turn
+* ? Shield Guard        07 - Constitution     - Gain a small shield
 * ! Ground Pound      20   - Strenght          - Attack all enemies, chance to stun everyone
 * Divine smite          04   - Wisdom           - Deal extra damage to all foes the user attacked this turn
 * Thousand Knives  20  -  Dexterity         - Damage and apply "bleed" to all enemies
@@ -23,7 +23,7 @@ Moves
 * ! Vicious bite          10 - Strength           - Deal some damage to one foe
 * ! Venomous fang    14 - Constitution    - Damage and apply "poison" to target
 * Troublemaker        06 - Wisdom           - Boost a random stat of the user
-* Hyper Fang           20 - Strength           - Powerful attack that also makes the target "bleed"
+* ! Hyper Fang           20 - Strength           - Powerful attack that also makes the target "bleed"
 
 
 Effects
