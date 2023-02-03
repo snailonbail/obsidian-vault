@@ -28,7 +28,7 @@ Moves
 
 Effects
 * ! Burn          - Receive some damage at the start of each turn
-* Angry        - Both deal and receive more damage
+* ! Angry        - Both deal and receive more damage
 * ! Hex           - Receive more damage from the curse user 
 * ! Stun          - The character is unable to do any action
 * ! Hidden     - Make enemies not target the user if possible
