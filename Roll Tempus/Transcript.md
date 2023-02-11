@@ -2,6 +2,24 @@ This is the transcript of what happened in the first session of the Tempus DnD s
 
 # Backstory
 
+In the town of Oakhurst.
+
+Two young adventurers decide to go explore some nearby ruins.
+
+They never return.
+
+Their mother, a noblewoman who rules over the town, requests help from some hearty adventurers.
+
+Their quest is to recover her children alive if possible, their bodies if not.
+
+If there was nothing else left of them, atleast they needed to recover the signet ring they wore.
+
+The unlikely group accepted the request, and started making preparations to explore of darkness that lie inside...
+
+...The Sunless Citadel.
+
+
+
 	This party of three adventurers took a quest by a local noblewoman who had two children, a son and a daughter, and they became adventurers against her will, joined a party of four, and went exploring in a nearby ruins, called the Sunless Citadel. They never returned.
 
 	That was about a month and a half ago, about five to six weeks ago.
