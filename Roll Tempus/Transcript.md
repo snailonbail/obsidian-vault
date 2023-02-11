@@ -12,7 +12,7 @@ Their mother, a noblewoman who rules over the town, requests help from some hear
 
 Their quest is to recover her children alive if possible, their bodies if not.
 
-If there was nothing else left of them, atleast they needed to recover the signet ring they wore.
+If there was nothing else left of them, recover the signet rings they wore.
 
 The unlikely group accepted the request, and started making preparations to explore of darkness that lie inside...
 
