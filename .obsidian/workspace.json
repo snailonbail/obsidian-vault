@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Spider.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Spider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md",
+                "file": "Roll Tempus/Spider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roll Tempus/CurioBOT.md"
+                "file": "Roll Tempus/Spider.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "b1f8d62359177e8e",
   "lastOpenFiles": [
+    "Roll Tempus/Giant Rat.md",
+    "Roll Tempus/Spider.md",
+    "Roll Tempus/CurioBOT.md",
     "Roll Tempus/Catxel XIII.md",
     "Roll Tempus/Altor.md",
-    "Roll Tempus/CurioBOT.md",
-    "Roll Tempus/Rat.md",
     "Roll Tempus/Transcript.md",
     "Roll Tempus/Dialogue System 1.md",
     "Roll Tempus/Moves.md",
     "Roll Tempus/Moves Power.md",
-    "Roll Tempus/Available Combat Action.md",
-    "Roll Tempus/Giant Rat.md"
+    "Roll Tempus/Available Combat Action.md"
   ]
 }
