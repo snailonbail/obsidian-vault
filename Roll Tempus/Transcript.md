@@ -168,7 +168,7 @@ Since you descended into the ravine, the temperature has plummeted at least 20 d
 
 **CurioBOT**: 
 	"Alright!"
-	"I am equiped with many accoutrements!"
+	"I am equiped with many .!"
 	"Allow me to take this moment to describe to you what lies within CurioBOT's body."
 	"In my left arm, it splits down the middle, flipping on either side."
 	"From the middle of my forearm extends a rod and at the end of the rod a sphere pops out, and from this sphere, spikes on this ball".
