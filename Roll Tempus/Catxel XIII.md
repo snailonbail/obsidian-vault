@@ -13,32 +13,28 @@ hp: 20 (d8)
 	Charisma: 15         1
 
 
-str
-dex
-con
-int
-wis
-cha
 
-Overworld:
-* Dark Vision    - Can see in the dark with his dark vision;
+lvl 1
+* Thousand Knives     20  -  Dexterity     - Damage and apply "bleed" to all enemies
+* Rapier Strike           11   - Dexterity      - Normal damage to one foe
+* * Investigation          06   - Inteligence   - Gain information of the targets weaknesses and strenghts
 
-Passive:
+lvl 2
+* Disengage           07   - Wisdom      - End the turn instantly, and heal for unused energy
+
+lvl 3
 * Keen Eye        - Higher chance of dodging strenght and dexterity moves;
 
-Power move:
-* Thousand Knives     20  -  Dexterity     - Damage and apply "bleed" to all enemies
-
-Moves:
-~ level 1 ~
-* Rapier Strike           11   - Dexterity      - Normal damage to one foe
+lvl 4
 * Hide in Shadows    12   - Wisdom       - Apply the "hidden" effect to the user, making enemies not target next turn
-* Investigation          06   - Inteligence   - Gain information of the targets weaknesses and strenghts
 
-~ level 2 ~
-* Sneak Attack       18    - Dexterity     - High damage which can only be used if the user is hidden
+lvl 5
 * Short Bow           15    - Dexterity     - An attack slightly powerful but with less accuracy
-* Disengage           07   - Wisdom      - End the turn instantly, and heal for unused energy
+
+lvl 6
+* Sneak Attack       18    - Dexterity     - High damage which can only be used if the user is hidden
+
+
 
 
 >I'm a bit secretive about my backstory you guys will find out probably, maybe someday, but just not today yet. Maybe next time.

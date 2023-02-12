@@ -12,25 +12,34 @@ hp: 19 (d10)
 	Wisdom: 11         2
 	Charisma: 12       2
 
-Overworld:
-* Hammer Down     - Break doors and other weak obstacles;
-
 Passive:
-* Crushing Force     - Deals bonus damage to stunned enemies
+
 
 Power Move: 
-* Ground Pound   20   - Strenght          - Attack all enemies, chance to stun everyone
+
 
 Moves:
-~ level 1 ~
+
+lvl 1
+* Ground Pound   20   - Strenght          - Attack all enemies, chance to stun everyone
 * Running Tackle  12   - Dexterity         - Chance of inflicting "stun" to a character
 * Mace Strike        08   - Strenght           - Normal damage to 1 foe
+
+lvl 2
 * Shield Guard      07   - Constitution     - Boost strenght and constitution until next turn
 
-~ level 2 ~
+lvl 3
+* Crushing Force     - Deals bonus damage to stunned enemies
+
+lvl 4
 * Divine smite       04   - Wisdom           - Deal extra damage to all foes the user attacked this turn
+
+lvl 5
 * Lay on Hands     13   - Constitution     - Heal self health
+
+lvl 6
 * Warhammer       18   - Strenght           - High damage to 1 foe, lowers strenght of enemy 
+
 
 
 >*Altor was born under the bright moonlight on a sandy beach.
